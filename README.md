@@ -16,6 +16,13 @@ Here are places to look at regarding me and my information:
 - ⚡   , My Fun facts: I am a people watcher. I enjoy people and conversation, looking at people at the beach. I enjoy using my computer, 
 - ⚡       digital camera, photography and writing software. I create product videos, watch movies, listen to music, and dine at fine places.
 
+
+
+### Skills
+
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a></p>
+
+
 🏡 [website][website] **|**
 🐦 [twitter][twitter] **|**
 📺 [youtube][youtube] **|**
@@ -25,11 +32,7 @@ Here are places to look at regarding me and my information:
 
 https://www.patreon.com/MyOneUniverse?fan_
 
-[firebase]: https://firebase.google.com
-[styled]: https://styled-components.com
-[jamstack]: https://jamstack.org
-[next]: https://nextjs.org
-[typescript]: https://www.typescriptlang.org
+
 [website]: http://www.jamesavakian.com
 [twitter]: https://twitter.com/javakian
 [youtube]: https://www.youtube.com/channel/UCJ4W2V7CUMbj6jC_Qt0a2Ug
