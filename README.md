@@ -1,17 +1,20 @@
-[![bg][banner]][website]
+[website]
 
-[banner]: https://raw.githubusercontent.com/javakian/javakian/master/1.png
+![JamesAvakian62's Stats](https://github-readme-stats.vercel.app/api?username=JamesAvakian62&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JamesAvakian62&theme=java-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-Hi 👋 , I am a Software Developer currently developing products for Optical Automation, LLC. Specifically I use Next.js and Tailwindcss, and MongoDB to make our products.  Generally I started with industry MERN React.JS full stack information technology by MongoDB, Express.JS, React.JS, and Node.JS technology. Today I only use Next.js for exciting people oriented website networks. This technology is performant, the fastest responding website technology available. I deploy websites using Microsoft Visual Code, Github, Netlify, and Vercel technologies.
+![JamesAvakian62's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JamesAvakian62&theme=vue-dark&hide_border=false)
 
-Here are places to look at regarding me and my information:
+![JamesAvakian62's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesAvakian62&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-- 🔭  , I’m currently working on a five website network for consumers and people information by Next.JS.
-- 🌱  , I’m currently learn and master Next.JS, Tailwindcss, and MongoDB database
-- 👯  , I’m looking to collaborate on Next.JS project
-- 🤔  , I’m looking for Next.JS efficient design and deployment solutions.
+Hello 👋 , I am a Software Developer that develops software for Optical Automation, LLC. Specifically I use React.js, MongoDB and CSS3, known as MERN CSS3 to make our products.  This website database technology is performant, the fastest responding information technology available. I deploy websites using Microsoft Visual Code, Github, and Netlify technologies.
+
+Here are places to look at regarding programming information:
+
+- 🔭  , I’m currently working on several project for our six website network for consumer clients.
+- 🌱  , I’m currently learn and master MERN database
+- 👯  , I’m looking to collaborate on MERN project
+- 🤔  , I’m looking for MERN developer with efficient design and deployment solutions.
 - 💬  , Ask me about creating a website for your and your business.
 - 📫  , How to reach me: email, Facebook, Twitter, and more . . .
 - 😄  , Pronouns: he/him
