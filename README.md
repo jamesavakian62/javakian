@@ -1,6 +1,8 @@
 [![bg][banner]][website]
 
-[banner]: https://raw.githubusercontent.com/javakian/javakian/master/1.png
+[banner]: https://raw.githubusercontent.com/javakian/javakian/master/11.png
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JamesAvakian62&theme=java-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 Hi 👋 , I am a Software Developer currently developing products for Optical Automation, LLC. Specifically I use Next.js and Tailwindcss, and MongoDB to make our products.  Generally I started with industry MERN React.JS full stack information technology by MongoDB, Express.JS, React.JS, and Node.JS technology. Today I only use Next.js for exciting people oriented website networks. This technology is performant, the fastest responding website technology available. I deploy websites using Microsoft Visual Code, Github, Netlify, and Vercel technologies.
 
