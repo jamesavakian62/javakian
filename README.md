@@ -1,6 +1,6 @@
 [![bg][banner]][website]
 
-[banner]: https://raw.githubusercontent.com/javakian/javakian/master/11.png
+[banner]: https://raw.githubusercontent.com/javakian/javakian/master/1.png
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JamesAvakian62&theme=java-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
