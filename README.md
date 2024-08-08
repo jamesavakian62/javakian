@@ -16,7 +16,7 @@ Here are places to look at regarding me and my information:
 - ⚡   , My Fun facts: I am a people watcher. I enjoy people and conversation, looking at people at the beach. I enjoy using my computer, 
 - ⚡       digital camera, photography and writing software. I create product videos, watch movies, listen to music, and dine at fine places.
 
-🏡 [website][website] **|**
+🏡 [website][website] **|**[firebase]: https://firebase.google.com[styled]: https://styled-components.com
 🐦 [twitter][twitter] **|**
 📺 [youtube][youtube] **|**
 📷 [instagram][instagram] **|**
@@ -25,8 +25,8 @@ Here are places to look at regarding me and my information:
 
 https://www.patreon.com/MyOneUniverse?fan_
 
-[firebase]: https://firebase.google.com
-[styled]: https://styled-components.com
+
+
 [jamstack]: https://jamstack.org
 [next]: https://nextjs.org
 [typescript]: https://www.typescriptlang.org
